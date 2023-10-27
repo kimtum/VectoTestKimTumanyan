@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectoTestKimTumanyan", "VectoTestKimTumanyan\VectoTestKimTumanyan.csproj", "{C0164AA4-40AC-4962-9E30-15E74264ECAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesing", "Tesing\Tesing.csproj", "{70AAEC2F-F273-4020-B2E7-7AC5AB1C3982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0164AA4-40AC-4962-9E30-15E74264ECAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0164AA4-40AC-4962-9E30-15E74264ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0164AA4-40AC-4962-9E30-15E74264ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0164AA4-40AC-4962-9E30-15E74264ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AAEC2F-F273-4020-B2E7-7AC5AB1C3982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AAEC2F-F273-4020-B2E7-7AC5AB1C3982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AAEC2F-F273-4020-B2E7-7AC5AB1C3982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AAEC2F-F273-4020-B2E7-7AC5AB1C3982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2AD7F32-C80F-49FA-9292-F65E5813190F}
+	EndGlobalSection
+EndGlobal

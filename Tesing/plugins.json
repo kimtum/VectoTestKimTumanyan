@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "Plugin1",
+      "assemblyPath": "Plugin1.dll",
+      "typeName": "Plugin1.PluginClass"
+    },
+    {
+      "name": "Plugin2",
+      "assemblyPath": "Plugin2.dll",
+      "typeName": "Plugin2.PluginClass"
+    }
+  ]
+}
